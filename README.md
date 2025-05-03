@@ -40,10 +40,10 @@ Apps & Tools
 
 ### 📫 Let’s Connect!
 
-- Instagram: [@simaos]( (https://www.instagram.com/_simaos_?igsh=MXdrOTZ0MTRlb3A2cg%3D%3D&utm_source=qr)https://www.instagram.com/_simaos_?igsh=MXdrOTZ0MTRlb3A2cg%3D%3D&utm_source=qr) (https://www.instagram.com/_simaos_?igsh=MXdrOTZ0MTRlb3A2cg%3D%3D&utm_source=qr)
-- Behance: [@Sinethmi Thehara]( (https://www.behance.net/sinethmithehara)https://www.behance.net/sinethmithehara) (https://www.behance.net/sinethmithehara)
-- YouTube: [SIMAOS]( (https://youtube.com/@simaos_?si=M7vIuTFjhPwOKBbC)https://youtube.com/@simaos_?si=M7vIuTFjhPwOKBbC) (https://youtube.com/@simaos_?si=M7vIuTFjhPwOKBbC)
-- Email: [mail me](simaosinc29@gmail.com)
+- Instagram: ( (https://www.instagram.com/_simaos_?igsh=MXdrOTZ0MTRlb3A2cg%3D%3D&utm_source=qr)https://www.instagram.com/_simaos_?igsh=MXdrOTZ0MTRlb3A2cg%3D%3D&utm_source=qr) (https://www.instagram.com/_simaos_?igsh=MXdrOTZ0MTRlb3A2cg%3D%3D&utm_source=qr)
+- Behance: ( (https://www.behance.net/sinethmithehara)https://www.behance.net/sinethmithehara) (https://www.behance.net/sinethmithehara)
+- YouTube:( (https://youtube.com/@simaos_?si=M7vIuTFjhPwOKBbC)https://youtube.com/@simaos_?si=M7vIuTFjhPwOKBbC) (https://youtube.com/@simaos_?si=M7vIuTFjhPwOKBbC)
+
 
 ---
 
