@@ -48,16 +48,19 @@ From Sri Lanka 🇱🇰
 ### 📫 Let’s Connect!
 <p align="left">
   <a href="https://www.instagram.com/_simaos_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="![image](https://github.com/user-attachments/assets/8caa6e22-c427-4ad0-b2de-a8d46f87d44e)
+"/>
   </a>
   <a href="https://www.behance.net/Thehara Jay" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+    <img src="![image](https://github.com/user-attachments/assets/c9025306-63b0-4272-8a50-924599568e35)
+ alt="Behance"/>
   </a>
-  <a href="https://www.youtube.com/@simaos" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <a href="https://www.youtube.com/@simaos_" target="_blank">
+    <img src="![image](https://github.com/user-attachments/assets/3aff0458-3f53-47ba-9546-39c43136eade)
+ alt="YouTube"/>
   </a>
   <a href="https://www.facebook.com/Thehara Jayakodi" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="![image](https://github.com/user-attachments/assets/fe7bad8a-93dc-4d54-8787-cb328c6aeee0) alt="Facebook"/>
   </a>
 </p>
 
