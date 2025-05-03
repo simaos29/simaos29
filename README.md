@@ -47,8 +47,9 @@ From Sri Lanka 🇱🇰
 
 ### 📫 Let’s Connect!
 <p align="left">
-  <a href="https://www.instagram.com/_simaos_" target="_blank">
-    <img src="![image](https://github.com/user-attachments/assets/8caa6e22-c427-4ad0-b2de-a8d46f87d44e)
+  <a href="https://www.![ins](https://github.com/user-attachments/assets/b11020f6-73db-4e55-8d55-414a17f69399)
+instagram.com/_simaos_" target="_blank">
+    <img src="
 "/>
   </a>
   <a href="https://www.behance.net/Thehara Jay" target="_blank">
