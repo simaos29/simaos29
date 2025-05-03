@@ -34,7 +34,7 @@ Apps & Tools
 
 ### 📊 GitHub Stats
 
-![Thehara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![simaos29's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ---
 
