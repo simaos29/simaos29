@@ -14,36 +14,52 @@ From Sri Lanka 🇱🇰
 
 ---
 
-### 🛠️ Languages and Apps I Use
+---
 
-Languages  
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+### 🧠 Languages & Tools
 
-Apps & Tools  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000?logo=blackmagicdesign&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?logo=capcut&logoColor=white)
-![Procreate](https://img.shields.io/badge/Procreate-1D1D1D?logo=procreate&logoColor=white)
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 🎨 Design & Editing Tools
 
-![simaos29's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+<p align="left">
+  <!-- Adobe Photoshop -->
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop"/>
+  <!-- Adobe Premiere Pro -->
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro"/>
+  <!-- DaVinci Resolve -->
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=DaVinci%20Resolve&logoColor=white" alt="DaVinci Resolve"/>
+  <!-- CapCut -->
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=CapCut&logoColor=white" alt="CapCut"/>
+  <!-- Procreate -->
+  <img src="https://img.shields.io/badge/Procreate-181818?style=for-the-badge&logo=procreate&logoColor=white" alt="Procreate"/>
+</p>
 
----
+
 
 ### 📫 Let’s Connect!
-
-- Instagram: ( (https://www.instagram.com/_simaos_?igsh=MXdrOTZ0MTRlb3A2cg%3D%3D&utm_source=qr)https://www.instagram.com/_simaos_?igsh=MXdrOTZ0MTRlb3A2cg%3D%3D&utm_source=qr) (https://www.instagram.com/_simaos_?igsh=MXdrOTZ0MTRlb3A2cg%3D%3D&utm_source=qr)
-- Behance: ( (https://www.behance.net/sinethmithehara)https://www.behance.net/sinethmithehara) (https://www.behance.net/sinethmithehara)
-- YouTube:( (https://youtube.com/@simaos_?si=M7vIuTFjhPwOKBbC)https://youtube.com/@simaos_?si=M7vIuTFjhPwOKBbC) (https://youtube.com/@simaos_?si=M7vIuTFjhPwOKBbC)
-
+<p align="left">
+  <a href="https://www.instagram.com/_simaos_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.behance.net/Thehara Jay" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+  </a>
+  <a href="https://www.youtube.com/@simaos" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.facebook.com/Thehara Jayakodi" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
 
 ---
 
