@@ -47,21 +47,16 @@ From Sri Lanka 🇱🇰
 
 ### 📫 Let’s Connect!
 <p align="left">
-  <a href="https://www.![ins](https://github.com/user-attachments/assets/b11020f6-73db-4e55-8d55-414a17f69399)
-instagram.com/_simaos_" target="_blank">
-    <img src="
-"/>
-  </a>
+  <a href="instagram.com/_simaos_" target="_blank">
+    <img src="![ins](https://github.com/user-attachments/assets/fd75acdd-5c8f-4b6e-adbd-e50e0ad9f124)"/> </a>
   <a href="https://www.behance.net/Thehara Jay" target="_blank">
-    <img src="![image](https://github.com/user-attachments/assets/c9025306-63b0-4272-8a50-924599568e35)
- alt="Behance"/>
+    <img src="![be](https://github.com/user-attachments/assets/5e3e42e5-0783-4bc6-8970-f64706fec949)"alt="Behance"/>
   </a>
   <a href="https://www.youtube.com/@simaos_" target="_blank">
-    <img src="![image](https://github.com/user-attachments/assets/3aff0458-3f53-47ba-9546-39c43136eade)
- alt="YouTube"/>
+    <img src="![you](https://github.com/user-attachments/assets/1f233e69-4107-4d02-958d-09b6e838f8d8)" alt="YouTube"/>
   </a>
   <a href="https://www.facebook.com/Thehara Jayakodi" target="_blank">
-    <img src="![image](https://github.com/user-attachments/assets/fe7bad8a-93dc-4d54-8787-cb328c6aeee0) alt="Facebook"/>
+    <img src="![fb](https://github.com/user-attachments/assets/5f991081-3849-4690-992a-b7f571dec854)" alt="Facebook"/>
   </a>
 </p>
 
